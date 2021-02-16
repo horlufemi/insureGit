@@ -85,11 +85,11 @@ main {
 
 
 
-@media (min-width:992px) {
-    main {
+/* @media (min-width:992px) { */
+    /* main {
 
         background-position: left bottom;
-    }
+    } */
 
 
     .supermargin {
@@ -121,7 +121,7 @@ main {
         background-position: left top;
     }
 
-}
+/* } */
 
 .nav-btn {
     width: 10rem;
